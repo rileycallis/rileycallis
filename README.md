@@ -1,4 +1,4 @@
-# about me
+# About Me
 
 - I’m working on an iOS app for MATES Senior Capstone.
 - I’m learning how to code in R and Swift.
